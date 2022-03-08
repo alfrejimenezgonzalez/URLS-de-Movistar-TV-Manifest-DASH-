@@ -52,6 +52,9 @@ M+ liga
 https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd
 
 
+Por ultimo , recordar que el chaval que habia mencionando antes que lo habia descubierto desde el primer promento habia desarollado un script en Python para buscar Canales o urls mediante la sintaxis que le pongas. Les dejo el enlace para que le echeis un ojo :). 
+https://gist.github.com/aitormagan/41c9b044e0511184bf63
+
 
 
 
