@@ -45,6 +45,9 @@ Fin de la Charleta dejo las URLS que he pillado :D
 
 M+ liga
 https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd
+https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd
+
+
 
 M+ Campeones
 https://b43987-p8-h83-aejx8pov.1.cdn.telefonica.com/_43987/dash/mligacampeones.isml/manifest.mpd
