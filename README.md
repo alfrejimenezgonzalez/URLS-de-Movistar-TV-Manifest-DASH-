@@ -44,14 +44,13 @@ Fin de la Charleta dejo las URLS que he pillado :D
 
 | **Canal TV** | Enlaces |
 | ------------- | ------------- |
-| M+ Liga  | https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd | | https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd  |
+| M+ Liga  | https://b43955-p8-hb6-aemx8pov.1.cdn.telefonica.com/_43955/dash/mlaliga.isml/manifest.mpd |  |
 | M+ Campeones  | https://b43987-p8-h83-aejx8pov.1.cdn.telefonica.com/_43987/dash/mligacampeones.isml/manifest.mpd  |
 | M+ Campeones 1  | https://b44016-p8-h35-aemh8pov.1.cdn.telefonica.com/_44016/dash/01campeones.isml/manifest.mpd  |
 | M+ Campeones 3  | https://b44018-p8-hb3-aelx8pov.1.cdn.telefonica.com/_44018/dash/03campeones.isml/manifest.mpd  |
 | M+ Campeones 4  | https://b44019-p8-h89-aejh8pov.1.cdn.telefonica.com/_44019/dash/04campeones.isml/manifest.mpd  |
 | M+ Campeones 5  | https://b44020-p8-hec-aeoh8pov.1.cdn.telefonica.com/_44020/dash/05campeonesor.isml/manifest.mpd  |
 | M+ Campeones 6  | https://b44021-p8-hcb-aelx8pov.1.cdn.telefonica.com/_44021/dash/06campeonesor.isml/manifest.mpd   |
-
 
 
 
